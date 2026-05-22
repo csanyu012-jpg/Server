@@ -11,7 +11,7 @@ const IMALI_BASE_URL = "https://api.imali.app/api/imali/v1";
 // After deploying to Render, paste your Render URL here:
 // e.g. "https://your-app-name.onrender.com"
 // Then register  <YOUR_RENDER_URL>/webhooks/imali  in iMali dashboard → Developers → Webhooks
-const SERVER_BASE_URL = "https://your-app-name.onrender.com";
+const SERVER_BASE_URL = "https://server-7m9f.onrender.com";
 // ─────────────────────────────────────────────────────────────────────────────
 
 // In-memory receipt store (persists while server is running)
