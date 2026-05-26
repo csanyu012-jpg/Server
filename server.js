@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // ── HARDCODED CONFIG ──────────────────────────────────────────────────────────
-const IMALI_API_KEY = "sk_live_92a96cfdfb0caf9385586a208508b1f39338c056";
+const IMALI_API_KEY = "sk_live_124c737efaecd05c448e866265d4056be4601fd5";
 const IMALI_BASE_URL = "https://app.imali.app/api/imali/v1";
 // After deploying to Render, paste your Render URL here:
 // e.g. "https://your-app-name.onrender.com"
